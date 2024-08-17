@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fabio\\Desktop\\CICLO02-2024\\DSE\\Guia 3\\MVCPelicula\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB35FB5D-F5F1-496E-8EFB-CB7D125E491B}|MVCPelicula\\MVCPelicula.csproj|c:\\users\\fabio\\desktop\\ciclo02-2024\\dse\\guia 3\\mvcpelicula\\mvcpelicula\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB35FB5D-F5F1-496E-8EFB-CB7D125E491B}|MVCPelicula\\MVCPelicula.csproj|solutionrelative:mvcpelicula\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB35FB5D-F5F1-496E-8EFB-CB7D125E491B}|MVCPelicula\\MVCPelicula.csproj|c:\\users\\fabio\\desktop\\ciclo02-2024\\dse\\guia 3\\mvcpelicula\\mvcpelicula\\models\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB35FB5D-F5F1-496E-8EFB-CB7D125E491B}|MVCPelicula\\MVCPelicula.csproj|solutionrelative:mvcpelicula\\models\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB35FB5D-F5F1-496E-8EFB-CB7D125E491B}|MVCPelicula\\MVCPelicula.csproj|c:\\users\\fabio\\desktop\\ciclo02-2024\\dse\\guia 3\\mvcpelicula\\mvcpelicula\\models\\seeds\\peliculaseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB35FB5D-F5F1-496E-8EFB-CB7D125E491B}|MVCPelicula\\MVCPelicula.csproj|solutionrelative:mvcpelicula\\models\\seeds\\peliculaseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB35FB5D-F5F1-496E-8EFB-CB7D125E491B}|MVCPelicula\\MVCPelicula.csproj|c:\\users\\fabio\\desktop\\ciclo02-2024\\dse\\guia 3\\mvcpelicula\\mvcpelicula\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB35FB5D-F5F1-496E-8EFB-CB7D125E491B}|MVCPelicula\\MVCPelicula.csproj|solutionrelative:mvcpelicula\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB35FB5D-F5F1-496E-8EFB-CB7D125E491B}|MVCPelicula\\MVCPelicula.csproj|c:\\users\\fabio\\desktop\\ciclo02-2024\\dse\\guia 3\\mvcpelicula\\mvcpelicula\\models\\seeds\\generoseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB35FB5D-F5F1-496E-8EFB-CB7D125E491B}|MVCPelicula\\MVCPelicula.csproj|solutionrelative:mvcpelicula\\models\\seeds\\generoseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB35FB5D-F5F1-496E-8EFB-CB7D125E491B}|MVCPelicula\\MVCPelicula.csproj|c:\\users\\fabio\\desktop\\ciclo02-2024\\dse\\guia 3\\mvcpelicula\\mvcpelicula\\models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB35FB5D-F5F1-496E-8EFB-CB7D125E491B}|MVCPelicula\\MVCPelicula.csproj|solutionrelative:mvcpelicula\\models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB35FB5D-F5F1-496E-8EFB-CB7D125E491B}|MVCPelicula\\MVCPelicula.csproj|c:\\users\\fabio\\desktop\\ciclo02-2024\\dse\\guia 3\\mvcpelicula\\mvcpelicula\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB35FB5D-F5F1-496E-8EFB-CB7D125E491B}|MVCPelicula\\MVCPelicula.csproj|solutionrelative:mvcpelicula\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB35FB5D-F5F1-496E-8EFB-CB7D125E491B}|MVCPelicula\\MVCPelicula.csproj|c:\\users\\fabio\\desktop\\ciclo02-2024\\dse\\guia 3\\mvcpelicula\\mvcpelicula\\models\\peliculasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB35FB5D-F5F1-496E-8EFB-CB7D125E491B}|MVCPelicula\\MVCPelicula.csproj|solutionrelative:mvcpelicula\\models\\peliculasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB35FB5D-F5F1-496E-8EFB-CB7D125E491B}|MVCPelicula\\MVCPelicula.csproj|c:\\users\\fabio\\desktop\\ciclo02-2024\\dse\\guia 3\\mvcpelicula\\mvcpelicula\\views\\peliculas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB35FB5D-F5F1-496E-8EFB-CB7D125E491B}|MVCPelicula\\MVCPelicula.csproj|solutionrelative:mvcpelicula\\views\\peliculas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB35FB5D-F5F1-496E-8EFB-CB7D125E491B}|MVCPelicula\\MVCPelicula.csproj|c:\\users\\fabio\\desktop\\ciclo02-2024\\dse\\guia 3\\mvcpelicula\\mvcpelicula\\controllers\\peliculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB35FB5D-F5F1-496E-8EFB-CB7D125E491B}|MVCPelicula\\MVCPelicula.csproj|solutionrelative:mvcpelicula\\controllers\\peliculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB35FB5D-F5F1-496E-8EFB-CB7D125E491B}|MVCPelicula\\MVCPelicula.csproj|c:\\users\\fabio\\desktop\\ciclo02-2024\\dse\\guia 3\\mvcpelicula\\mvcpelicula\\migrations\\20240716000022_migracion_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB35FB5D-F5F1-496E-8EFB-CB7D125E491B}|MVCPelicula\\MVCPelicula.csproj|solutionrelative:mvcpelicula\\migrations\\20240716000022_migracion_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\Desktop\\CICLO02-2024\\DSE\\Guia 3\\MVCPelicula\\MVCPelicula\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MVCPelicula\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\fabio\\Desktop\\CICLO02-2024\\DSE\\Guia 3\\MVCPelicula\\MVCPelicula\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "MVCPelicula\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T01:13:09.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Genero.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\Desktop\\CICLO02-2024\\DSE\\Guia 3\\MVCPelicula\\MVCPelicula\\Models\\Genero.cs",
+              "RelativeDocumentMoniker": "MVCPelicula\\Models\\Genero.cs",
+              "ToolTip": "C:\\Users\\fabio\\Desktop\\CICLO02-2024\\DSE\\Guia 3\\MVCPelicula\\MVCPelicula\\Models\\Genero.cs",
+              "RelativeToolTip": "MVCPelicula\\Models\\Genero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T01:12:56.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\fabio\\Desktop\\CICLO02-2024\\DSE\\Guia 3\\MVCPelicula\\MVCPelicula\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCPelicula\\appsettings.json",
+              "ToolTip": "C:\\Users\\fabio\\Desktop\\CICLO02-2024\\DSE\\Guia 3\\MVCPelicula\\MVCPelicula\\appsettings.json",
+              "RelativeToolTip": "MVCPelicula\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-24T23:07:22.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pelicula.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\Desktop\\CICLO02-2024\\DSE\\Guia 3\\MVCPelicula\\MVCPelicula\\Models\\Pelicula.cs",
+              "RelativeDocumentMoniker": "MVCPelicula\\Models\\Pelicula.cs",
+              "ToolTip": "C:\\Users\\fabio\\Desktop\\CICLO02-2024\\DSE\\Guia 3\\MVCPelicula\\MVCPelicula\\Models\\Pelicula.cs",
+              "RelativeToolTip": "MVCPelicula\\Models\\Pelicula.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T00:09:56.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\fabio\\Desktop\\CICLO02-2024\\DSE\\Guia 3\\MVCPelicula\\MVCPelicula\\Views\\Peliculas\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCPelicula\\Views\\Peliculas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\fabio\\Desktop\\CICLO02-2024\\DSE\\Guia 3\\MVCPelicula\\MVCPelicula\\Views\\Peliculas\\Index.cshtml",
+              "RelativeToolTip": "MVCPelicula\\Views\\Peliculas\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T00:05:48.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PeliculasDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\Desktop\\CICLO02-2024\\DSE\\Guia 3\\MVCPelicula\\MVCPelicula\\Models\\PeliculasDBContext.cs",
+              "RelativeDocumentMoniker": "MVCPelicula\\Models\\PeliculasDBContext.cs",
+              "ToolTip": "C:\\Users\\fabio\\Desktop\\CICLO02-2024\\DSE\\Guia 3\\MVCPelicula\\MVCPelicula\\Models\\PeliculasDBContext.cs",
+              "RelativeToolTip": "MVCPelicula\\Models\\PeliculasDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T23:46:54.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240716000022_Migracion_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\Desktop\\CICLO02-2024\\DSE\\Guia 3\\MVCPelicula\\MVCPelicula\\Migrations\\20240716000022_Migracion_Inicial.cs",
+              "RelativeDocumentMoniker": "MVCPelicula\\Migrations\\20240716000022_Migracion_Inicial.cs",
+              "ToolTip": "C:\\Users\\fabio\\Desktop\\CICLO02-2024\\DSE\\Guia 3\\MVCPelicula\\MVCPelicula\\Migrations\\20240716000022_Migracion_Inicial.cs",
+              "RelativeToolTip": "MVCPelicula\\Migrations\\20240716000022_Migracion_Inicial.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAQwFcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T00:00:22.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PeliculaSeed.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\Desktop\\CICLO02-2024\\DSE\\Guia 3\\MVCPelicula\\MVCPelicula\\Models\\Seeds\\PeliculaSeed.cs",
+              "RelativeDocumentMoniker": "MVCPelicula\\Models\\Seeds\\PeliculaSeed.cs",
+              "ToolTip": "C:\\Users\\fabio\\Desktop\\CICLO02-2024\\DSE\\Guia 3\\MVCPelicula\\MVCPelicula\\Models\\Seeds\\PeliculaSeed.cs",
+              "RelativeToolTip": "MVCPelicula\\Models\\Seeds\\PeliculaSeed.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T23:40:59.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PeliculasController.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\Desktop\\CICLO02-2024\\DSE\\Guia 3\\MVCPelicula\\MVCPelicula\\Controllers\\PeliculasController.cs",
+              "RelativeDocumentMoniker": "MVCPelicula\\Controllers\\PeliculasController.cs",
+              "ToolTip": "C:\\Users\\fabio\\Desktop\\CICLO02-2024\\DSE\\Guia 3\\MVCPelicula\\MVCPelicula\\Controllers\\PeliculasController.cs",
+              "RelativeToolTip": "MVCPelicula\\Controllers\\PeliculasController.cs",
+              "ViewState": "AQIAAK0AAAAAAAAAAAAUwLQAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T00:15:31.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GeneroSeed.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\Desktop\\CICLO02-2024\\DSE\\Guia 3\\MVCPelicula\\MVCPelicula\\Models\\Seeds\\GeneroSeed.cs",
+              "RelativeDocumentMoniker": "MVCPelicula\\Models\\Seeds\\GeneroSeed.cs",
+              "ToolTip": "C:\\Users\\fabio\\Desktop\\CICLO02-2024\\DSE\\Guia 3\\MVCPelicula\\MVCPelicula\\Models\\Seeds\\GeneroSeed.cs",
+              "RelativeToolTip": "MVCPelicula\\Models\\Seeds\\GeneroSeed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T23:28:52.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\Desktop\\CICLO02-2024\\DSE\\Guia 3\\MVCPelicula\\MVCPelicula\\Program.cs",
+              "RelativeDocumentMoniker": "MVCPelicula\\Program.cs",
+              "ToolTip": "C:\\Users\\fabio\\Desktop\\CICLO02-2024\\DSE\\Guia 3\\MVCPelicula\\MVCPelicula\\Program.cs",
+              "RelativeToolTip": "MVCPelicula\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T14:01:55.25Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
